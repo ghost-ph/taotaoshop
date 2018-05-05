@@ -1,0 +1,116 @@
+<component name="libraryTable">
+  <library name="jQuery 1.4.1" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="1.4.1" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.parser.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.tabs.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.menu.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.form.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.calendar.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.datebox.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.window.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.slider.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/easyloader.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.window.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.panel.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.combo.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.tree.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.tabs.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.slider.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.parser.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.layout.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.dialog.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.menu.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.form.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_TW.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ru.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-pl.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-nl.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-jp.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-sv_SE.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-pt_BR.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-tr.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-el.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-de.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-da.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-cz.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-it.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-fr.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-es.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-en.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-am.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-af.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-cs.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ca.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-bg.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ar.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.droppable.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.draggable.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.accordion.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.combobox.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.propertygrid.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.progressbar.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.linkbutton.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.resizable.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.parser.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.tabs.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.menu.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.form.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.calendar.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.datebox.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.window.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.slider.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/easyloader.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.window.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.panel.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.combo.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.tree.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.tabs.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.slider.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.parser.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.layout.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.dialog.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.menu.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.form.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_TW.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ru.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-pl.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-nl.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-jp.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-sv_SE.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-pt_BR.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-tr.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-el.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-de.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-da.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-cz.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-it.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-fr.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-es.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-en.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-am.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-af.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-cs.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ca.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-bg.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-ar.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.droppable.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.draggable.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.accordion.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.combobox.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.propertygrid.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.progressbar.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.linkbutton.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.resizable.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
